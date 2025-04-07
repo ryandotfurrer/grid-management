@@ -13,7 +13,7 @@ function Row({
 }) {
   return (
     <div className="h-[2.125rem] grid grid-cols-2 items-center relative">
-      <span className="text-xs font-semibold block flex-shrink-0">{desc}</span>
+      <span className="text-xs font-semibold block shrink-0">{desc}</span>
       <span className="text-xs text-[#7D7D7E] font-mono block relative">
         <span className="block truncate w-full">{value}</span>
         {children}
