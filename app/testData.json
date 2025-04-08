@@ -1,0 +1,72 @@
+{
+  "leagues": [
+    {
+      "id": "l1",
+      "league_name": "East Coast Racers",
+      "league_admin": "u1",
+      "league_members": ["u1", "u2", "u3"],
+      "league_game": "Gran Turismo 7",
+      "date_created": "2024-03-15T08:00:00Z",
+      "region": "NA_EAST"
+    },
+    {
+      "id": "l2",
+      "league_name": "West Coast Drifters",
+      "league_admin": "u4",
+      "league_members": ["u4", "u5", "u6"],
+      "league_game": "Forza Motorsport",
+      "date_created": "2024-02-28T10:30:00Z",
+      "region": "NA_WEST"
+    }
+  ],
+  "users": [
+    {
+      "id": "u1",
+      "username": "SpeedDemon",
+      "leagues": ["l1"],
+      "region": "NA_EAST",
+      "isAdmin": true,
+      "adminLeagues": ["l1"]
+    },
+    {
+      "id": "u2",
+      "username": "RacingPro",
+      "leagues": ["l1"],
+      "region": "NA_EAST",
+      "isAdmin": false,
+      "adminLeagues": null
+    },
+    {
+      "id": "u3",
+      "username": "TrackMaster",
+      "leagues": ["l1"],
+      "region": "NA_EAST",
+      "isAdmin": false,
+      "adminLeagues": null
+    },
+    {
+      "id": "u4",
+      "username": "DriftKing",
+      "leagues": ["l2"],
+      "region": "NA_WEST",
+      "isAdmin": true,
+      "adminLeagues": ["l2"]
+    },
+    {
+      "id": "u5",
+      "username": "CoastRider",
+      "leagues": ["l2"],
+      "region": "NA_WEST",
+      "isAdmin": false,
+      "adminLeagues": null
+    },
+    {
+      "id": "u6",
+      "username": "NightDriver",
+      "leagues": ["l2"],
+      "region": "NA_WEST",
+      "isAdmin": false,
+      "adminLeagues": null
+    }
+  ]
+}

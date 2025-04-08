@@ -1,5 +1,5 @@
 @import 'tailwindcss';
-@import "tw-animate-css";
+@import 'tw-animate-css';
 /*
   ---break---
 */
@@ -37,8 +37,20 @@
 .background {
   overflow: hidden;
   background: #f8f8f8;
-  background-image: repeating-linear-gradient(0deg, transparent, transparent 11px, #f2f2f2 11px, #f2f2f2 12px),
-    repeating-linear-gradient(90deg, transparent, transparent 11px, #f2f2f2 11px, #f2f2f2 12px);
+  background-image: repeating-linear-gradient(
+      0deg,
+      transparent,
+      transparent 11px,
+      #f2f2f2 11px,
+      #f2f2f2 12px
+    ),
+    repeating-linear-gradient(
+      90deg,
+      transparent,
+      transparent 11px,
+      #f2f2f2 11px,
+      #f2f2f2 12px
+    );
 }
 
 .mask {
@@ -180,5 +192,8 @@
   }
   body {
     @apply bg-background text-foreground;
+  }
+  a {
+    @apply underline;
   }
 }
