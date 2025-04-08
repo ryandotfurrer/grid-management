@@ -51,10 +51,12 @@ export default function RootLayout({
         }}
       >
         <body className={`min-h-screen flex flex-col antialiased`}>
-          <nav>
-            <Link href='/'>Home</Link>
-          </nav>
-          {children}
+          <div className='max-w-screen-xl mx-auto'>
+            <nav>
+              <Link href='/'>Home</Link>
+            </nav>
+            {children}
+          </div>
         </body>
       </ClerkProvider>
 

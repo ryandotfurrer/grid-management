@@ -1,0 +1,466 @@
+{
+  "tracks": [
+    {
+      "id": "trial-mountain",
+      "name": "Trial Mountain Circuit",
+      "location": "Japan",
+      "length": "2.4 miles",
+      "type": "Circuit",
+      "variations": [
+        {
+          "name": "Full Circuit",
+          "length": "2.4 miles"
+        },
+        {
+          "name": "Reverse",
+          "length": "2.4 miles"
+        }
+      ]
+    },
+    {
+      "id": "deep-forest",
+      "name": "Deep Forest Raceway",
+      "location": "Japan",
+      "length": "2.2 miles",
+      "type": "Circuit",
+      "variations": [
+        {
+          "name": "Full Circuit",
+          "length": "2.2 miles"
+        },
+        {
+          "name": "Reverse",
+          "length": "2.2 miles"
+        }
+      ]
+    },
+    {
+      "id": "high-speed-ring",
+      "name": "High-Speed Ring",
+      "location": "Japan",
+      "length": "1.8 miles",
+      "type": "Circuit",
+      "variations": [
+        {
+          "name": "Full Circuit",
+          "length": "1.8 miles"
+        },
+        {
+          "name": "Reverse",
+          "length": "1.8 miles"
+        }
+      ]
+    },
+    {
+      "id": "autopolis",
+      "name": "Autopolis International Racing Course",
+      "location": "Japan",
+      "length": "2.9 miles",
+      "type": "Circuit",
+      "variations": [
+        {
+          "name": "Full Circuit",
+          "length": "2.9 miles"
+        },
+        {
+          "name": "Short Course",
+          "length": "1.8 miles"
+        },
+        {
+          "name": "Reverse",
+          "length": "2.9 miles"
+        }
+      ]
+    },
+    {
+      "id": "suzuka",
+      "name": "Suzuka Circuit",
+      "location": "Japan",
+      "length": "3.6 miles",
+      "type": "Circuit",
+      "variations": [
+        {
+          "name": "Full Circuit",
+          "length": "3.6 miles"
+        },
+        {
+          "name": "East Course",
+          "length": "1.4 miles"
+        },
+        {
+          "name": "West Course",
+          "length": "1.2 miles"
+        }
+      ]
+    },
+    {
+      "id": "fuji",
+      "name": "Fuji International Speedway",
+      "location": "Japan",
+      "length": "2.8 miles",
+      "type": "Circuit",
+      "variations": [
+        {
+          "name": "Full Circuit",
+          "length": "2.8 miles"
+        },
+        {
+          "name": "Short Course",
+          "length": "1.4 miles"
+        }
+      ]
+    },
+    {
+      "id": "tokyo-expressway",
+      "name": "Tokyo Expressway",
+      "location": "Japan",
+      "length": "2.1 miles",
+      "type": "Street Circuit",
+      "variations": [
+        {
+          "name": "Central Clockwise",
+          "length": "2.1 miles"
+        },
+        {
+          "name": "Central Counterclockwise",
+          "length": "2.1 miles"
+        },
+        {
+          "name": "East Clockwise",
+          "length": "1.8 miles"
+        },
+        {
+          "name": "East Counterclockwise",
+          "length": "1.8 miles"
+        },
+        {
+          "name": "South Clockwise",
+          "length": "1.5 miles"
+        },
+        {
+          "name": "South Counterclockwise",
+          "length": "1.5 miles"
+        }
+      ]
+    },
+    {
+      "id": "nurburgring",
+      "name": "Nürburgring",
+      "location": "Germany",
+      "length": "12.9 miles",
+      "type": "Circuit",
+      "variations": [
+        {
+          "name": "Nordschleife",
+          "length": "12.9 miles"
+        },
+        {
+          "name": "GP Circuit",
+          "length": "3.2 miles"
+        },
+        {
+          "name": "24h Layout",
+          "length": "15.8 miles"
+        }
+      ]
+    },
+    {
+      "id": "spa",
+      "name": "Circuit de Spa-Francorchamps",
+      "location": "Belgium",
+      "length": "4.3 miles",
+      "type": "Circuit",
+      "variations": [
+        {
+          "name": "Full Circuit",
+          "length": "4.3 miles"
+        }
+      ]
+    },
+    {
+      "id": "monza",
+      "name": "Autodromo Nazionale Monza",
+      "location": "Italy",
+      "length": "3.6 miles",
+      "type": "Circuit",
+      "variations": [
+        {
+          "name": "Full Circuit",
+          "length": "3.6 miles"
+        },
+        {
+          "name": "No Chicane",
+          "length": "3.6 miles"
+        }
+      ]
+    },
+    {
+      "id": "sardegna",
+      "name": "Circuit de la Sarthe",
+      "location": "France",
+      "length": "8.5 miles",
+      "type": "Circuit",
+      "variations": [
+        {
+          "name": "Full Circuit",
+          "length": "8.5 miles"
+        },
+        {
+          "name": "No Chicane",
+          "length": "8.5 miles"
+        }
+      ]
+    },
+    {
+      "id": "daytona",
+      "name": "Daytona International Speedway",
+      "location": "USA",
+      "length": "3.6 miles",
+      "type": "Circuit",
+      "variations": [
+        {
+          "name": "Road Course",
+          "length": "3.6 miles"
+        },
+        {
+          "name": "Tri-Oval",
+          "length": "2.5 miles"
+        }
+      ]
+    },
+    {
+      "id": "laguna-seca",
+      "name": "WeatherTech Raceway Laguna Seca",
+      "location": "USA",
+      "length": "2.2 miles",
+      "type": "Circuit",
+      "variations": [
+        {
+          "name": "Full Circuit",
+          "length": "2.2 miles"
+        }
+      ]
+    },
+    {
+      "id": "bathurst",
+      "name": "Mount Panorama Circuit",
+      "location": "Australia",
+      "length": "3.9 miles",
+      "type": "Circuit",
+      "variations": [
+        {
+          "name": "Full Circuit",
+          "length": "3.9 miles"
+        }
+      ]
+    },
+    {
+      "id": "interlagos",
+      "name": "Autódromo José Carlos Pace",
+      "location": "Brazil",
+      "length": "2.7 miles",
+      "type": "Circuit",
+      "variations": [
+        {
+          "name": "Full Circuit",
+          "length": "2.7 miles"
+        }
+      ]
+    },
+    {
+      "id": "red-bull-ring",
+      "name": "Red Bull Ring",
+      "location": "Austria",
+      "length": "2.7 miles",
+      "type": "Circuit",
+      "variations": [
+        {
+          "name": "Full Circuit",
+          "length": "2.7 miles"
+        },
+        {
+          "name": "Short Circuit",
+          "length": "1.8 miles"
+        }
+      ]
+    },
+    {
+      "id": "brands-hatch",
+      "name": "Brands Hatch",
+      "location": "UK",
+      "length": "2.4 miles",
+      "type": "Circuit",
+      "variations": [
+        {
+          "name": "Grand Prix Circuit",
+          "length": "2.4 miles"
+        },
+        {
+          "name": "Indy Circuit",
+          "length": "1.2 miles"
+        }
+      ]
+    },
+    {
+      "id": "goodwood",
+      "name": "Goodwood Motor Circuit",
+      "location": "UK",
+      "length": "2.4 miles",
+      "type": "Circuit",
+      "variations": [
+        {
+          "name": "Full Circuit",
+          "length": "2.4 miles"
+        }
+      ]
+    },
+    {
+      "id": "saint-croix",
+      "name": "Circuit de Sainte-Croix",
+      "location": "France",
+      "length": "3.6 miles",
+      "type": "Circuit",
+      "variations": [
+        {
+          "name": "A",
+          "length": "3.6 miles"
+        },
+        {
+          "name": "B",
+          "length": "2.8 miles"
+        },
+        {
+          "name": "C",
+          "length": "2.1 miles"
+        },
+        {
+          "name": "Reverse",
+          "length": "3.6 miles"
+        }
+      ]
+    },
+    {
+      "id": "dragontrail",
+      "name": "Dragon Trail",
+      "location": "Spain",
+      "length": "2.5 miles",
+      "type": "Circuit",
+      "variations": [
+        {
+          "name": "Seaside",
+          "length": "2.5 miles"
+        },
+        {
+          "name": "Gardens",
+          "length": "2.1 miles"
+        },
+        {
+          "name": "Reverse",
+          "length": "2.5 miles"
+        }
+      ]
+    },
+    {
+      "id": "alsace",
+      "name": "Alsace Village",
+      "location": "France",
+      "length": "1.8 miles",
+      "type": "Circuit",
+      "variations": [
+        {
+          "name": "Full Circuit",
+          "length": "1.8 miles"
+        },
+        {
+          "name": "Reverse",
+          "length": "1.8 miles"
+        }
+      ]
+    },
+    {
+      "id": "kyoto",
+      "name": "Kyoto Driving Park",
+      "location": "Japan",
+      "length": "1.2 miles",
+      "type": "Circuit",
+      "variations": [
+        {
+          "name": "Yamagiwa",
+          "length": "1.2 miles"
+        },
+        {
+          "name": "Miyabi",
+          "length": "0.8 miles"
+        },
+        {
+          "name": "Reverse",
+          "length": "1.2 miles"
+        }
+      ]
+    },
+    {
+      "id": "northern-isle",
+      "name": "Northern Isle Speedway",
+      "location": "Japan",
+      "length": "0.6 miles",
+      "type": "Oval",
+      "variations": [
+        {
+          "name": "Full Circuit",
+          "length": "0.6 miles"
+        }
+      ]
+    },
+    {
+      "id": "blue-moon",
+      "name": "Blue Moon Bay Speedway",
+      "location": "Japan",
+      "length": "1.5 miles",
+      "type": "Oval",
+      "variations": [
+        {
+          "name": "Infield A",
+          "length": "1.5 miles"
+        },
+        {
+          "name": "Infield B",
+          "length": "1.2 miles"
+        },
+        {
+          "name": "Infield C",
+          "length": "0.9 miles"
+        }
+      ]
+    },
+    {
+      "id": "broad-bean",
+      "name": "Broad Bean Raceway",
+      "location": "Japan",
+      "length": "1.2 miles",
+      "type": "Circuit",
+      "variations": [
+        {
+          "name": "Full Circuit",
+          "length": "1.2 miles"
+        },
+        {
+          "name": "Reverse",
+          "length": "1.2 miles"
+        }
+      ]
+    },
+    {
+      "id": "special-stage-route-x",
+      "name": "Special Stage Route X",
+      "location": "Japan",
+      "length": "18.6 miles",
+      "type": "Speedway",
+      "variations": [
+        {
+          "name": "Full Circuit",
+          "length": "18.6 miles"
+        }
+      ]
+    }
+  ]
+}
